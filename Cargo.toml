@@ -1,0 +1,17 @@
+[workspace]
+members = [
+    "tcx-proto",
+    "tcx-constants",
+    "tcx-primitive",
+    "tcx-crypto",
+    "tcx-chain",
+    "tcx-tron",
+    "tcx-btc-fork",
+    "tcx-bch",
+    "tcx-ckb",
+    "tcx-substrate",
+    "tcx",
+
+    "tcx-tester",
+]
+
